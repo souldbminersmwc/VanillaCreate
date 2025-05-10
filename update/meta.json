@@ -1,111 +1,50 @@
 {
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
   "versions": [
     {
       "id": "5.1.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "major"
     },
     {
       "id": "5.0.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "incompatible"
     },
     {
       "id": "4.1.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "incompatible"
     },
     {
       "id": "4.0.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "incompatible"
     },
     {
       "id": "3.1.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "minor"
     },
     {
       "id": "3.0.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "major"
     },
     {
       "id": "2.6.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "minor"
     },
     {
       "id": "2.5.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "minor"
     },
     {
       "id": "2.4.0",
       "releasedAt": 1746909716624,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://example.com/"
-        }
-      },
       "updateType": "minor"
     }
   ]
