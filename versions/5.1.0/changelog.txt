@@ -1,0 +1,12 @@
+- Added Ducks and Geese
+- Better Main Menu
+- New numbers for stack size
+- Chunk Loaders
+- World Map
+- Day and Time Counter
+- Predictive Crafting
+- Merging slabs back into full blocks
+- Ores for all stones
+- Swapping between block variants
+- Server Notification support
+- Tweaks to villages

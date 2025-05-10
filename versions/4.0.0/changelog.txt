@@ -1,0 +1,10 @@
+- Up to 5x faster than 3.0.0
+- Improvements to World Generation
+- More types of wildlife
+- More building blocks
+- More biomes and structures
+- Create 6 Update (Post Production)
+- Improved launch times
+- Zoom keybind
+- New dog breeds
+- Rainbows and auroras
