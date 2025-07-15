@@ -1,0 +1,13 @@
+name = "Server Notify"
+filename = "server-notify-1.21-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b718fceeef50f3a9c6b77ae36d1e38157227ae9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6079912
+project-id = 1176771

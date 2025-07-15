@@ -1,0 +1,13 @@
+name = "Friends&Foes - Beekeeper Hut (Forge/NeoForge)"
+filename = "beekeeperhut-neoforge-3.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30fc6810fd503c1c38c8763223f96904cf150b56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6505419
+project-id = 711903

@@ -1,0 +1,13 @@
+name = "Vanilla Create"
+author = "Souldbminer"
+version = "5.7.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3b064bf6361d9fffb72abb3a96188a759a3a70cbc13b97ef37ff313e6c8b355"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.192"

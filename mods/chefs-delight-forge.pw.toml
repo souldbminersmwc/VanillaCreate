@@ -1,0 +1,13 @@
+name = "Chef's Delight [Forge] - Farmer's Delight Villagers"
+filename = "chefsdelight-1.0.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfefca1db40d9baf15cdaf2579deb8f1c6b0aedc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6393917
+project-id = 832983

@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Backports the new clouds from snapshots",
+    "pack_format": 71,
+    "supported_formats": {
+      "min_inclusive": 0,
+      "max_inclusive": 78
+    }
+  }
+}

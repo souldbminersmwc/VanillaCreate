@@ -1,0 +1,1 @@
+A vanilla-style Create modpack. Made from scratch for a SMP. Requires at least 3GB of RAM

@@ -1,0 +1,13 @@
+name = "Variant Swap"
+filename = "variant-swap-1.21-v0.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24193f8b35838e9b31abc2ff46c56c3565abccab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6515482
+project-id = 1262722

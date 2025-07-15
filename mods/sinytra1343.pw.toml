@@ -1,0 +1,13 @@
+name = "Sinytra Connector #1343 (swimming fix)"
+filename = "sinytra1343-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91afa701405a4da311b009fbe45d02eaa56c85b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6644890
+project-id = 1285560

@@ -1,0 +1,13 @@
+name = "[SR] Super Resolution"
+filename = "superresolution-neoforge-1.21.1-0.7.1-alpha.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e5b45da32d196bc9a98c9f9faa146d0a1bbcf7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6610407
+project-id = 1267249

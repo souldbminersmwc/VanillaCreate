@@ -1,0 +1,13 @@
+name = "Ribbits"
+filename = "Ribbits-1.21.1-NeoForge-4.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b19f9d342cbc7064132eb0bad4b2c38cfb2a34e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6492964
+project-id = 622967

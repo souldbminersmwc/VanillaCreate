@@ -1,0 +1,25 @@
+{
+  "special": {
+    "fsr1": {
+      "fp16": true
+    },
+    "fsr2": {},
+    "nis": {},
+    "sgsr2": {
+      "variant": "CS_3"
+    },
+    "sgsr1": {}
+  },
+  "enableUpscale": true,
+  "upscaleRatio": 1.099,
+  "upscaleAlgo": "fsr1",
+  "sharpness": 0.5518,
+  "captureMode": "c",
+  "debugDumpShader": false,
+  "skipInitVulkan": false,
+  "enableRenderDoc": true,
+  "enableImgui": true,
+  "generateMotionVectors": false,
+  "pauseGameOnGui": false,
+  "injectPostChainBlackList": []
+}

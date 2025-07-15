@@ -1,0 +1,13 @@
+name = "CraftSense"
+filename = "craftsense-1.21-v1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "137d5920821655c3290d1018248c71cb1eb3e210"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6363296
+project-id = 1135835

@@ -1,2 +1,0 @@
-- Up to 20x faster server performance
-- Animals can now be bred again

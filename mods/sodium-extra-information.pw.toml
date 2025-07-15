@@ -1,0 +1,13 @@
+name = "Sodium Extra Information"
+filename = "SodiumExtraInformation-neoforge-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40a0b0189f5bd06473b6bda7c69c3b552d207b07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6284360
+project-id = 1073022

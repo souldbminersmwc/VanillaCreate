@@ -1,0 +1,13 @@
+name = "Some More Blocks"
+filename = "SomeMoreBlocks@fabric-1.21-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75d94ac3df41071b6fd627407b4d03e46a100bb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6171315
+project-id = 982529

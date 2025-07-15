@@ -1,0 +1,13 @@
+name = "Resource Backpack's"
+filename = "resource_backpacks-neoforge-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "255d7d04349df0d9a9e82395bb5d0605c4cf19e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749289
+project-id = 971140

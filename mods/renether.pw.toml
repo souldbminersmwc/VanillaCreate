@@ -1,0 +1,13 @@
+name = "ReNether"
+filename = "renether-2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6785f23461dc79c556a2a0390783bfb3103de3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6649076
+project-id = 1225562

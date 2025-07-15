@@ -1,0 +1,13 @@
+name = "Unslab - Slabs back to blocks"
+filename = "unslab-1.21-v0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14a3722a454f98f14ad21fd9f12c5b5cd43ea4dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6596757
+project-id = 1163364

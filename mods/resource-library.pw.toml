@@ -1,0 +1,13 @@
+name = "Resource Library"
+filename = "resourcelibrary-neoforge-1.21.1-2.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0340e801d392baf5ae8b4c819d81d3c064cd3677"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6719800
+project-id = 975803

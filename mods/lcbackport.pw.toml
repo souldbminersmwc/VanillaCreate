@@ -1,0 +1,13 @@
+name = "Lava Chicken & Good Boy Backport"
+filename = "lcbackport-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83e223b9738bbd2a028210a16c161597086d5c3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6734298
+project-id = 1300880

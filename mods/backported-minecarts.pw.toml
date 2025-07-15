@@ -1,0 +1,13 @@
+name = "Backported Minecarts"
+filename = "minecart-backport-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be710bea17e5b502b755f03ed7c9278f1ffdff05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6710526
+project-id = 1275209

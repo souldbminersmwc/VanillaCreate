@@ -1,0 +1,13 @@
+name = "No Man's Delight"
+filename = "no_mans_delight-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b894e3e549a9ed3caf1e998c4174cddf5f474ef7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6504202
+project-id = 1239046

@@ -1,0 +1,13 @@
+name = "Create:Egg Production"
+filename = "create_egg_production-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8592263b563830c1706c03d6ec0121f9a05eb757"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666684
+project-id = 1247193

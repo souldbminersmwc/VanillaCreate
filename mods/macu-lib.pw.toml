@@ -1,0 +1,13 @@
+name = "macu lib"
+filename = "macu_lib-neoforge-1.0.5-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "125a75152844e62467bef47d0a58752a348cbb1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6358814
+project-id = 1216837

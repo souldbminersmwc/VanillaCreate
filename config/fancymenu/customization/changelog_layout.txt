@@ -1,0 +1,110 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = changelog
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1752601166529
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:b4eb183f-4430-4f34-be3f-65aa854e1328-1752601090194] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 2.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 2560
+  baseheight = 1369
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = true
+  apply_vanilla_background_blur = true
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  interactable = false
+  source = Version 5.7.0%n%- Update Mods%n%- Better paintings%n%- Backport of 1.21.2 minecarts%n%- Goggle Helmets and armoured backtanks%n%- Update Mods%n%Version 5.6.0%n%- Update Mods%n%- Fix shops%n%- Drill Drain%n%Version 5.5.0%n%- Fluid Factory Logistics%n%- Improved performance with Super Resolution%n%- Optional backport of Clouds%n%- New lead mechanics%n%- Quicksand%n%- Session Re-authentication%n%- Log size reduction%n%- Fix bugs%n%- Update NeoForged and Mods%n%Version 5.4.1%n%- Measuring Tape%n%Version 5.4.0%n%- 1.21.2 and 1.21.5 features (Bundles of bravery & Spring to Life)%n%- Pale garden now genearates properly%n%- Fix recipe conflicts%n%- Zoom%n%- Better Keybinds%n%- Fix chests on contraptions%n%- Better fences%n%- More Create machines%n%- Update mods%n%Version 5.3.0%n%- New packager utilities%n%- Compass to locate biomes%n%- New kinetic blocks%n%- Saddle crafting from 1.21.6%n%- Late-game jetpacks%n%- Connected Texture support%n%- More information on the HUD%n%- Underlaying blocks beneath each other%n%%n%Version 5.2.2%n%- New Minimap and World Map%n%%n%Version 5.2.1%n%- Fix server packet issues%n%%n%Version 5.2.0%n%- Fix dedicated server crash%n%- Extra food types%n%%n%Version 5.1.1%n%- Fix crash on launch%n%%n%Version 5.1.0%n%- Added Ducks and Geese%n%- Better Main Menu%n%- New numbers for stack size%n%- Chunk Loaders%n%- World Map%n%- Day and Time Counter%n%- Predective Crafting%n%- Merging slabs back into full blocks%n%- Ores for all stones%n%- Swapping between block variants%n%- Server Notification support%n%- Tweaks to villages%n%%n%Version 5.0.0%n%- Significantly improved performance on client and server%n%- Significantly improved world generation%n%- Update to 1.21.1%n%- Improved visual effects%n%- Vibrant Visuals Support%n%- Better Bees%n%- Fishing expansion%n%- More villager types%n%- More block variants for existing blocks%n%- Translucent glass%n%- Happy Ghasts!%n%- NOTE: All worlds made before 5.0.0 will not work on 5.0.0%n%%n%Version 4.1.0%n%- Up to 20x faster server performance%n%- Animals can now be bred again%n%%n%Version 4.0.0%n%- Up to 5x faster than 3.0.0%n%- Improvements to World Generation%n%- More types of wildlife%n%- More building blocks%n%- More biomes and structures%n%- Create 6 Update (Post Production)%n%- Improved launch times%n%- Zoom keybind%n%- New dog breeds%n%- Rainbows and auroras%n%- NOTE: All worlds made before 4.0.0 will not work on 4.0.0%n%Version 3.1.0%n%- Improved launch times over 3.0.0%n%%n%Version 3.0.0%n%- 12 new wood types%n%- New florae%n%- New building blocks%n%- Improved archeology%n%- Prismarine automation%n%- Juices%n%- More variants of mobs%n%- New textures for electrical components%n%- More paintings%n%- Pale Garden%n%- Backtanks no longer lose enchantments when placed%n%- Updated Create to 0.5.1j%n%- More stone blocks%n%- Performance improvement%n%- Better looking smart chutes%n%- Distant Horizons 2.2 support%n%- Items dropped upon death now actually despawn%n%%n%Version 2.6.0%n%- A new method to gather currency%n%%n%Version 2.5.0%n%- Crafting recipe changes%n%%n%Version 2.4.0%n%- Weather and Clound overhaul
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  table_show_header = true
+  table_alternate_row_colors = true
+  table_line_color = #787878FF
+  table_header_background_color = #323232FF
+  table_row_background_color = #282828FF
+  table_alternate_row_color = #3C3C3CFF
+  table_line_thickness = 1.0
+  table_cell_padding = 8.0
+  table_margin = 4.0
+  element_type = text_v2
+  instance_identifier = 2b4ab192-349c-48c1-835e-85a8008913fe-1746908435341
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = true
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1370
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -735
+  y = -275
+  width = 1210
+  height = 545
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 49e56c34-1e6d-43cc-913c-08966ff19868-1746908435341
+  [loading_requirement_container_meta:49e56c34-1e6d-43cc-913c-08966ff19868-1746908435341] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
