@@ -341,14 +341,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
-file = "lineconv.py"
-hash = "44b50a30864bb9cc1a2c786c0f6c0ea0283b581b5989f8db35fbeb3725ad741f"
-
-[[files]]
-file = "lineforge.log"
-hash = "b12547e0f6b23edaedf5ce5ceda4694a23fc7df5bf6add1d22683f00e341c494"
-
-[[files]]
 file = "mods/Create_Mortar_Mango_Edition-mod-1.21.1-0.1.4.jar"
 hash = "952704b3e04d4691d97fc4fdb417ba25fad04ebc43a335d0fd066820aec86cd6"
 
