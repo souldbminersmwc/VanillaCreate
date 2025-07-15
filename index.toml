@@ -1452,11 +1452,11 @@ hash = "236f955d95481087698ae9c4d555273e5e3d3e0bbd0000655fa950066d652acb"
 
 [[files]]
 file = "resourcepacks/Cloud Backport.zip"
-hash = "b8aac9404c28e97cf5e433e7e92a95c17867c90d50cd701f4656b45654a76c78"
+hash = "e8966eb8f8d713633da36835ac52b83ebe9f6c8db5004703ac675a6d45fc3ef8"
 
 [[files]]
 file = "resourcepacks/Fresh Animations.zip"
-hash = "ede63b471b1960c48a54a4ce0f88078f9eaf284f19015704d513ef71ad81fb8c"
+hash = "ccb438641d14e35562636c8a00faf9e270d47556ddc7284ed868d0898ab3bc5a"
 
 [[files]]
 file = "resourcepacks/Vanilla Tweaks.zip"
@@ -1464,7 +1464,11 @@ hash = "36d8a3ad94918cb45f04588f18077386f2c8120dcc3e521c2c5042983f16551a"
 
 [[files]]
 file = "resourcepacks/Vibrant Water.zip"
-hash = "7015383a97ab278317fa588a76290a5fdf9125e92da70adf16e87cf5b84ce68a"
+hash = "4f6bfb1a055bae3e6a39a02ca24c16296d0d11934ede00cdc1e46766cb34279b"
+
+[[files]]
+file = "resourcepacks/folder.json"
+hash = "e10cc5ef02db33653ba194874175cf645e32491907836aecd92383eaf0e24feb"
 
 [[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
