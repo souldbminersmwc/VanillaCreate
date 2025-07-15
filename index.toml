@@ -298,7 +298,7 @@ hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "e26dab05a5ee9124bf7c697aadd5c4f9b72377705dc25a9089b353b94c6a271b"
+hash = "282c57468b8a79690d6f8fcdea475d615ba017b5b0112f1d15c36877b9d1d2b6"
 
 [[files]]
 file = "kubejs/config/common.json"
@@ -306,7 +306,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "9e59cb47cfba6c168b59ebbe826a14b2dd9f8ea86d20c92ca48e2305c224ac51"
+hash = "53e64e558fe15754d559729860a32cba1a44c6a7ac36b77d53d937c083a09b90"
 
 [[files]]
 file = "kubejs/config/web_server.json"
