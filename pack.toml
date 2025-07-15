@@ -1,12 +1,12 @@
 name = "Vanilla Create"
 author = "Souldbminer"
-version = "5.7.0"
+version = "5.7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53d4760f19798b336b4698d02b9687fd26ecbcea472cc1d9b4feac81ab777584"
+hash = "f42dfd4d54cae860151c16ea689eea22b4cd30ab85b3f51fe32b5e9a67371d21"
 
 [versions]
 minecraft = "1.21.1"
