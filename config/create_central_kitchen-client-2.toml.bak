@@ -1,3 +1,0 @@
-#.
-#If Block Item without GUI 3D Model should be rendered upright on Belt
-renderBlockItemWithNonGui3dModelUprightOnBelt = true
