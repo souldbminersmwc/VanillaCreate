@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "__init__.py"
-hash = "1e71dc89e441e4cb70c10fb36499afad1466869c373d1be56d77a3dbfc581225"
-
-[[files]]
 file = "config/blur.json"
 hash = "55f6beab8202a20d01d2b91f03461853c624b5a72214e2e7d2f4d97950a3e1f9"
 
