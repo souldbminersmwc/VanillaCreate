@@ -2,9 +2,8 @@
 	"unsup_manifest": "root-1",
 	"name": "Vanilla Create",
 	"versions": {
-		"current": { "name": "5.7.1", "code": 2 },
+		"current": { "name": "5.7.0", "code": 1 },
 		"history": [
-			{ "name": "5.7.0", "code": 1 }
 		]
 	}
 }

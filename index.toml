@@ -335,9 +335,6 @@ hash = "d102d0df3cb6685fe661d3e4810516b3fd50bc9a96f1ed6fce6b9d18bc644107"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-[[files]]
-file = "mods/Create Goggles Patch.jar"
-hash = "f7b3d898aae6eee3fcacbd938195b1e5926988f58d82dbf82e837d5339152c02"
 
 [[files]]
 file = "mods/Create_Mortar_Mango_Edition-mod-1.21.1-0.1.4.jar"
